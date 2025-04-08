@@ -5,7 +5,7 @@ description = "wiki eda"
 authors = [
     {name = "jacob", email = "jacob8753@gmail.com"},
 ]
-dependencies = []
+dependencies = ["streamlit>=1.44.1", "pandas>=2.2.3", "pyarrow>=19.0.1", "matplotlib>=3.10.1"]
 requires-python = ">=3.10"
 readme = "README.md"
 license = {text = "MIT"}
